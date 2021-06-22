@@ -1,0 +1,6 @@
+[kubernetes-master-nodes]
+prdx-kubem13.ziyotek3.local ansible_host=192.168.37.22
+
+[kubernetes-worker-nodes]
+prdx-kubew13.ziyotek3.local ansible_host=192.168.37.23
+prdx-kubew23.ziyotek3.local ansible_host=192.168.37.24
